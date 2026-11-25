@@ -1,62 +1,73 @@
-# Hey! I'm Ilya 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/efrilya07-eng/efrilya07-eng/main/assets/profile-banner.svg" alt="Ilya — Go Backend Developer" width="100%">
+</p>
 
-### Go Backend Developer in Progress 🚀
+<h3 align="center">Go Backend Developer in Progress 🚀</h3>
 
-I'm a student passionate about backend development and software engineering.
+<p align="center">
+  I'm Ilya — a student focused on backend development with <strong>Go</strong>.
+  <br>
+  I enjoy building HTTP services, working with APIs and exploring concurrent programming.
+</p>
 
-My main focus is **Go (Golang)**. I'm interested in building backend applications, working with APIs, databases and concurrent programming.
-
----
-
-### 🛠 Tech Stack
-
-**Main Language**
-- Go
-
-**Backend**
-- HTTP
-- REST API
-- Goroutines & Channels
-- Concurrent Programming
-
-**Databases**
-- SQL
-- PostgreSQL — learning
-- Doker - learning
-
-**Also familiar with**
-- Python
-- FastAPI
-
-**Tools**
-- Git
-- GitHub
+<p align="center">
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-### 📚 Currently Learning
+## 👨‍💻 About Me
 
-- Advanced Go
-- Backend Development
-- Database Design
-- PostgreSQL
-- Software Architecture
+- 🎯 Main direction: **Backend Development with Go**
+- ⚙️ Interested in HTTP services, REST APIs and concurrency
+- 🐍 Python is an additional language I have worked with
+- 🌱 Currently learning more about SQL, PostgreSQL and backend architecture
+
+## 🧰 Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Primary language** | Go (Golang) |
+| **Backend** | HTTP, REST APIs, goroutines, channels |
+| **Databases** | SQL; PostgreSQL — currently learning |
+| **Also familiar with** | Python |
+| **Tools** | Git, GitHub |
+
+## 🚀 Featured Project
+
+### [Task Orchestrator](https://github.com/efrilya07-eng/task-orchestrator)
+
+A Go HTTP service for managing background tasks.
+
+- Background task queue
+- Supports sleep and HTTP check tasks
+- Task state persistence in a JSON file
+- Re-queues unfinished tasks after restart
+- HTTP endpoints for creating tasks, checking task status and viewing statistics
+
+**Run locally:**
+
+~~~bash
+git clone https://github.com/efrilya07-eng/task-orchestrator.git
+cd task-orchestrator
+go test ./...
+go run .
+~~~
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=efrilya07-eng&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrilya07-eng&layout=compact&hide_border=true&theme=github_dark" alt="Top languages">
+</p>
+
+<p align="center">
+  <a href="https://github.com/efrilya07-eng?tab=repositories">Explore my repositories</a>
+</p>
 
 ---
 
-### 🎯 Goals
-
-- Become a professional Go Backend Developer
-- Build real-world backend projects
-- Improve my knowledge of Go concurrency
-- Develop reliable and efficient backend applications
-
----
-
-### 📫 Contact
-
-- GitHub: [@efrilya07-eng](https://github.com/efrilya07-eng)
-
----
-
-*Building. Learning. Improving.* 🚀
+<p align="center"><em>Building. Learning. Improving.</em> 🚀</p>
