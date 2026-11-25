@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/efrilya07-eng/efrilya07-eng/main/assets/profile-banner.webp?v=20261126" alt="Ilya — Go Backend Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/efrilya07-eng/efrilya07-eng/main/assets/profile-banner.svg?v=restore" alt="Ilya — Go Backend Developer" width="100%">
 </p>
 
 <h3 align="center">Go Backend Developer in Progress 🚀</h3>
