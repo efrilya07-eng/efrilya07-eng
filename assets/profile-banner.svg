@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ilya — Go Backend Developer</title>
+  <desc id="desc">Dark navy developer banner featuring Go, backend development, HTTP APIs, concurrency and SQL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset=".55" stop-color="#101b30"/><stop offset="1" stop-color="#172b45"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00add8" stop-opacity=".30"/><stop offset="1" stop-color="#2f81f7" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9fb7d4" stroke-opacity=".075" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1045" cy="55" r="255" fill="url(#glow)"/>
+  <path d="M0 286 C220 235 330 345 530 290 S870 220 1200 278" fill="none" stroke="#00add8" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M0 305 C220 254 330 364 530 309 S870 239 1200 297" fill="none" stroke="#7aa2f7" stroke-opacity=".12" stroke-width="2"/>
+  <rect x="58" y="68" width="154" height="154" rx="28" fill="#0d2435" stroke="#00add8" stroke-opacity=".65" stroke-width="2"/>
+  <text x="135" y="172" text-anchor="middle" fill="#00add8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-5">Go</text>
+  <circle cx="187" cy="91" r="6" fill="#00add8"/>
+  <text x="258" y="92" fill="#8babc7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">HELLO, I'M ILYA</text>
+  <text x="254" y="157" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing="-1.5">GO BACKEND</text>
+  <text x="258" y="205" fill="#c9d7e8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="500">Developer in Progress</text>
+  <rect x="258" y="246" width="520" height="1" fill="#49627e" opacity=".8"/>
+  <text x="258" y="281" fill="#8fa9c4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="1.5">HTTP APIS  •  CONCURRENCY  •  SQL</text>
+  <rect x="936" y="66" width="205" height="44" rx="22" fill="#102e42" stroke="#00add8" stroke-opacity=".55"/>
+  <circle cx="963" cy="88" r="6" fill="#00add8"/>
+  <text x="986" y="94" fill="#b8eaf5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.4">GOLANG FOCUS</text>
+  <text x="1140" y="323" text-anchor="end" fill="#6f88a4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">BUILD • LEARN • IMPROVE</text>
+</svg>
